@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Hosted using Firebase
 
-Website-URL - [https://ecommerce-website-1470a.web.app]
+Website-URL - [https://ecommerce-website-1470a.web.app](https://ecommerce-website-1470a.web.app)
 
 ## Available Scripts
 
